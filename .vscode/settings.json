@@ -1,5 +1,5 @@
 {
   "editor.defaultFormatter": "ms-dotnettools.csharp",
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true
+  "omnisharp.enableRoslynAnalyzers": true,
+  "omnisharp.enableEditorConfigSupport": true
 }

@@ -16,5 +16,5 @@
   },
   "lint-staged": {
     "*.cs": "dotnet format --include"
-  }
+  } 
 }
